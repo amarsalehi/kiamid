@@ -32,9 +32,9 @@ The estimated leaf area for each leaf will be displayed, along with the original
 ## Example
 Here's a step-by-step example of how to use the Kiamid Leaf Area Calculator:
 1. Run the program.
-2. Upload the reference photo _reference_image.jpg_ and the leaf photo _leaf.jpg_.
-3. Enter the Reference Length in cm _(This example is 15 cm)_ and Reference Width in cm _(This example is 15 cm)_.
-4. Enter the Reference Length in pixels _(This example is 1183)_ and Reference Width in pixels _(This example is 1183)_.
+2. Upload the reference photo **reference_image.jpg** and the leaf photo **leaf.jpg**.
+3. Enter the Reference Length in cm **(This example is 15 cm)** and Reference Width in cm **(This example is 15 cm)**.
+4. Enter the Reference Length in pixels **(This example is 1183 pixels)** and Reference Width in pixels **(This example is 1183 pixels)**.
 5. Click on Start Processing.
 
 ## Important Notes
