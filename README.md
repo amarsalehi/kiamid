@@ -15,8 +15,8 @@ Specify the actual size of the printed square in centimeters, representing the d
 
 - Run the Kiamid Leaf Area Calculator:
 Use the provided Python script, named leaf_area_calculator.py, to process the reference image and leaf images.
-Calculate Leaf Area:
 
+- Calculate Leaf Area:
 The script will automatically calculate the leaf area for each leaf based on the reference image's size and the captured leaf images.
 
 ## How to Use
@@ -28,6 +28,14 @@ python leaf_area_calculator.py
 The application will open a graphical user interface (GUI) where you can select the reference and leaf images and enter the required reference image size information.
 Click the "Start Processing" button to calculate the leaf area.
 The estimated leaf area for each leaf will be displayed, along with the original leaf image and a processed image showing the leaf contours.
+
+## Example
+Here's a step-by-step example of how to use the Kiamid Leaf Area Calculator:
+1. Run the program.
+2. Upload the reference photo _reference_image.jpg_ and the leaf photo _leaf.jpg_.
+3. Enter the Reference Length in cm _(This example is 15 cm)_ and Reference Width in cm _(This example is 15 cm)_.
+4. Enter the Reference Length in pixels _(This example is 1183)_ and Reference Width in pixels _(This example is 1183)_.
+5. Click on Start Processing.
 
 ## Important Notes
 The accuracy of the leaf area estimation depends on properly capturing the reference image and leaf images from the same height and providing accurate reference image size information.
